@@ -1,3 +1,3 @@
 # CUDA Implementation of a Fully Connected ANN
 
-### The serial implementation of fully connected ANN (FANN) was taken as baseline and the all the important function were parallelised using CUDA. Different optimizations were tried such as increasing the number of threads and memory coalescing and the improvement in performance was evaluated on three [datasets](https://github.com/libfann/fann/tree/master/datasets). The implementation details, results, and analysis can be found in the report.
+The serial implementation of fully connected ANN (FANN) was taken as baseline and the all the important function were parallelised using CUDA. Different optimizations were tried such as increasing the number of threads and memory coalescing and the improvement in performance was evaluated on three [datasets](https://github.com/libfann/fann/tree/master/datasets). The implementation details, results, and analysis can be found in the report.

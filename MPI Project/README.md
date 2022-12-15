@@ -1,4 +1,5 @@
-## The problem statement can be found [here](https://www.cse.iitd.ac.in/~rijurekha/col730_2022/mpi_assignment.html).
+# PageRank using Map Reduce programming paradigm over MPI
+### The problem statement can be found [here](https://www.cse.iitd.ac.in/~rijurekha/col730_2022/mpi_assignment.html).
 
 ### The project consists of three parts:
 #### Part 1: cdmh MapReduce Library

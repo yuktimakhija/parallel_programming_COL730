@@ -1,0 +1,3 @@
+# OpenMP and pthreads Assignment
+
+Developed two shared-memory parallel implementations of LU decomposition using OpenMP and pthreads that employ Gaussian elimination to factor a dense N x N matrix into an upper-triangular one and a lower-triangular one. Experiments involved comparison of different data structures to store the matrices such as n-pointers to n-element data vectors and 2-D arrays. The implementation was optimized further to reduce runtime by taking care of cache misses and false sharing. The results and discussion is provided in the report.
